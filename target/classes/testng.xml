@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AcidLabs Suite" verbose="1">
+<test name="Test Cases">
+    <classes>
+        <class name="src.tests.login.LoginCorrecto" />
+        <class name="src.tests.login.LoginFallido" />
+    </classes>
+</test>
+</suite>
